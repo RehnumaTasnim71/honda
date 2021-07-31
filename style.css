@@ -1,0 +1,33 @@
+.header-section {
+    background-color: #264653;
+}
+
+.button-color {
+    background-color: #e76f51;
+    color: white;
+}
+
+.btn{
+    border-radius: .25rem;
+    
+}
+.btn1{
+    border: 2px solid #e76f51;
+    background-color: white;
+    color: #e76f51;
+    border-radius: .25rem;
+    padding: 5px 10px;
+}
+
+.btn1:hover{
+    background: #e76f51;
+    color: white;
+}
+
+.grayscale-img {
+    filter: grayscale(100%);
+}
+
+.text-c{
+    color: #E76F51;
+}
